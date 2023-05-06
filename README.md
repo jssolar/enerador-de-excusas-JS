@@ -1,2 +1,2 @@
-# enerador-de-excusas-JS
+# Generador-de-excusas-JS
 Generados de excusas usando js
